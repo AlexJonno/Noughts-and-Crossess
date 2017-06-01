@@ -1,0 +1,26 @@
+h2 {
+  font-family: sans-serif;
+  font-weight: bold;
+  margin-left: 500px;
+}
+
+.board {
+  height: 350px;
+  width: 350px;
+  margin: 10px 0 0 500px;
+  }
+
+.square {
+  border: 5px;
+  border-style: dotted;
+  border-color: rgb(188, 166, 251);
+  height: 100px;
+  width: 100px;
+  background-color: rgb(208, 214, 255);
+  display: inline-block;
+  font-size: 50px;
+  float: left;
+  text-align: center;
+  font-family: cursive;
+  font-weight: bolder;
+  }
